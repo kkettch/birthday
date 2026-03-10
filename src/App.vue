@@ -1,9 +1,8 @@
 <template>
-  <BirthdayHero />
+  <router-view />
 </template>
 
 <script setup>
-import BirthdayHero from './components/BirthdayHero.vue'
 </script>
 
 <style>
