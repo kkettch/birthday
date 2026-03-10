@@ -78,7 +78,7 @@ const goToMemes = () => router.push('/memes')
         <button class="feature-card" @click="goToTimeline">
           <div class="feature-icon">⏳</div>
           <h3>Сколько времени я знаю Алину</h3>
-          <p>Милейшая страница про вашу историю</p>
+          <p>Очевидно много</p>
         </button>
 
         <button class="feature-card" @click="goToMemes">
